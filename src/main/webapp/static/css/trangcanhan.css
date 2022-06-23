@@ -1,0 +1,80 @@
+@charset "ISO-8859-1";
+.canhan{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    background:white;
+ 
+    padding: 0 3rem;
+}
+
+.noi-dung-lua-chon{
+    
+}
+.noi-dung-lua-chon h1{
+   font-size: 2.5rem;
+}
+.noi-dung-lua-chon label{
+    text-align: left;
+    position: relative;
+    top: 3%;
+    font-size: 1.5rem;
+ 
+}
+.lua-chon-thong-tin a{
+    display: block;
+    margin-top: 1.5rem;
+    color: black;
+    font-size: 1.7rem;
+    cursor: pointer;
+}
+.lua-chon-thong-tin a:hover{
+    color:orange;
+    
+}
+.lua-chon-thong-tin{
+    flex: 2;
+}
+.noi-dung-lua-chon{
+    flex: 8;
+   
+}
+.noi-dung-lua-chon .nhap-thong-tin{
+        border-radius: 4px;
+        width: 85%;
+        margin-top: 2rem;
+        padding:  0.5rem 0;
+        border: 1px solid rgba(12, 12, 12, 0.368);;
+}
+.anh-dai-dien{
+    width: 85%;
+    text-align: center;
+   
+
+}
+.anh-dai-dien img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+.noi-dung-lua-chon .nhap-thong-tin input{
+      
+    width: 100%;
+    height: 2.25em;
+}
+.nut-luu{
+    margin:  2rem 0; 
+    background: white;
+    text-align: center;
+    width: 85%;
+}
+.nut-luu  button{
+    background-color: #ff3860;
+    color: white;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+}
+#doi-mat-khau{
+    display: none;
+}

@@ -1,0 +1,25 @@
+Thi cuối kì 
+------------------------------------
+Thi phòng máy (công cụ: visual paradigm - uml)
+-Thi trong <60' - thời gian thi chi tiết (chia ca) 
+-> thi mình sẽ thông báo cụ thể
+
+-- Nội dung:
+- mô tả bài toán (tương ứng với một nghiệp vụ/chức năng - usecase)
+  1. biểu đồ usecase (req)
+  2. kịch bản (analysis)
+  3. biểu đồ lớp thực thể (analysis)
+  4. biểu đồ tương tác (giao tiếp/tuần tự (lựa chọn 1 trong 2): hiện thực hóa kịch bản) [xác định lớp biên và lớp điều khiển]
+  5. biểu đồ kết hợp (là kết quả ở luồng công việc thiết kế:thuộc tính, ràng buộc và phương thức) + thiết kế chi tiết lớp (DESIGN)
+
+--- Cách thức:
+1. các bạn sẽ đăng nhập vào một trang web (LAN) --> xem đề [1-5]
+2. Thực hiện bằng Visual paradigm --> xuất ra file ảnh
+3. Đưa vào file word (.docx : tạo template)
+4. Nộp file word trên web
+---> làm quen với VP (usecase, class diagram,...) (lưu ý ký pháp)
+
+--------- nếu nội dung/kết quả giống nhau = 0 ----------------
+
+
+
